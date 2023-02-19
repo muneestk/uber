@@ -1,0 +1,234 @@
+body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background:;
+    font-family: system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif ;
+}
+.container{
+width: 100%;
+height: 100;
+margin: 0;
+
+}
+.header
+{
+position: relative;
+left: 233px;
+top: 21px;
+width: 100%;
+height: 60px;
+color: black;
+display: flex;
+flex-direction:row ;
+justify-content:;
+}
+.ride,.rent,.eat,.more
+{
+    
+    flex: 0.1;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    letter-spacing: normal;
+    width: 97px;
+    height: 52px;
+    font-weight: bold;
+    line-height: normal;
+
+
+}
+/*.car{
+    position: absolute;
+    left: -25px;
+    top:5px;
+
+}
+.key{
+    position: absolute;
+    left: 60px;
+    top:5px;
+
+}
+.food{
+    position: absolute;
+    left: 120px;
+    top:5px;
+
+}
+.moreimg{
+    position: absolute;
+    left: 60px;
+    top:1px;
+
+}*/
+
+.uber
+{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 65px;
+
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 35px;
+    letter-spacing: normal;
+    width: 97px;
+    height: 52px;
+    font-weight: 600;
+    line-height: 39px;
+}
+.line{
+    width: 100%;
+    height: 1px;
+}
+.ron
+{
+    position: absolute;
+    right: 173px;
+    top: 22px;
+}
+.help{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    letter-spacing: normal;
+    width: 97px;
+    height: 52px;
+    font-weight: bold;
+    line-height: normal;
+    position: absolute;
+    right: 60px;
+    top: 2px;
+
+}
+.user{
+    width: 45px;
+    position:absolute;
+    right: 58px;
+    top: 10px;
+}
+.down{
+    position: absolute;
+    right: 38px;
+    top: 26px;
+}
+.box{
+    width: 343px;
+    height: 309px;
+    position:absolute ;
+    left: 40px;
+    top: 120px;
+    border-radius: 15px;
+    border-color: #e2e2e2;
+    border-style: solid;
+    line-height: 24px;
+    font-size: 16px;
+}
+.get{
+    font-family:UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    font-weight: 700;
+    position: relative;
+    font-size: 20px;
+    left: 20px;
+}
+
+.a{
+    display: flex;
+    flex-direction: column;
+    width: 304px;
+    height: 47px;
+    background-color:#eeeeee ;
+    position: absolute;
+    left: 20px;
+    border-radius: 10px;
+}
+.b{
+    width: 304px;
+    height: 47px;
+    background-color:#eeeeee;
+    position: absolute;
+    left: 20px;
+    bottom: 143px;
+    border-radius: 10px;
+}
+.c{
+    width: 304px;
+    height: 47px;
+    background-color:#eeeeee;
+    position: absolute;
+    left: 20px;
+    bottom: 77px;
+    border-radius: 10px;
+}
+.d{
+    width: 304px;
+    height: 47px;
+    position: absolute;
+    left: 20px;
+    bottom: 14px;
+    border-radius: 10px;
+}
+.a img{
+    height: 17px;
+    position: absolute;
+    left: 21px;
+    bottom: 16px;
+}.a p{
+    position: relative;
+    margin-left:46px ;
+    margin-top: 13px;
+    color: #6b6b6b;
+}
+.b p{
+    position: relative;
+    margin-left:46px ;
+    margin-top: 12px;
+    color: #6b6b6b;
+}
+.b img{
+    height: 17px;
+    position: absolute;
+    left: 21px;
+    bottom: 16px;
+}
+
+.ab{
+    height: 17px;
+    position: absolute;
+    left: 21px;
+    bottom: 17px;
+
+}
+.c p{
+    position: relative;
+    margin-left:48px ;
+    margin-top: 10px;
+    color:black;
+}
+.d p{
+    width: ;
+    position: relative;
+    margin-left:137px ;
+    margin-top: 10px;
+    color:#6b6b6b;
+}
+.mn
+{
+    height: 17px;
+    position: absolute;
+    left: 274px;
+    bottom: 17px;
+}
+.map
+{
+    
+    position: absolute;
+    left: 388px;
+    top: -3px;
+    width: 500px;
+
+}
+
+
+
+
+
